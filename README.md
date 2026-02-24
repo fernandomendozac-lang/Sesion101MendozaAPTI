@@ -1,4 +1,5 @@
-# Titulo de Proyecto: Proyecto Plataforma de Ciberseguridad ASI Mendoza
+# Proyecto Plataforma de Ciberseguridad ASI Mendoza
+[![Demo del Sistema](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Fases y actividades del Proyecto APTI
 # **I. Inicio.**
 - 1.1 Carta de inicio-*Project charter*
@@ -28,3 +29,4 @@
 - 4.1 Evaluación del proyecto
 - 4.2 Mejora continuidad
 - 4.3 Contratos de aceptación y conclusión FODA
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
